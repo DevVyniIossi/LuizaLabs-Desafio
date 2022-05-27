@@ -34,4 +34,12 @@ O formato de saída deve seguir a seguinte estrutura:
 -	Linguagem (não estamos falando de framework)
 
 <h1>Software Utilizado</h1>
+- Apache NetBeans IDE
+
+<h2>Linguagem Utilizado</h2>
+- Java
+
+
+
+
 
