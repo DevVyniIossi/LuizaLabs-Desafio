@@ -32,3 +32,6 @@ O formato de saída deve seguir a seguinte estrutura:
 -	Simplicidade
 -	SOLID
 -	Linguagem (não estamos falando de framework)
+
+<h1>Software Utilizado</h1>
+
